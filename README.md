@@ -127,12 +127,12 @@ Contributions, forks, and improvements are welcome 🚀
 Below are some images of the assembled and working device.
 
 ### General view
-![General project view](images/progetto_vista_generale.jpg)
+![General project view](images/6.jpg)
 
 ### Electronic board detail
-![Electronic board](images/scheda_elettronica.jpg)
+![Electronic board](images/2.jpg)
 
 ### Device in operation
-![Device in operation](images/dispositivo_funzione.jpg)
+![Device in operation](images/7.jpg)
 
 > 📌 Images are located in the `/images` folder of the repository.

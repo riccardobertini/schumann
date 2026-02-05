@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "Coil")(type "KiCad")(uri "${KIPRJMOD}/Libs/Coil.pretty")(options "")(descr ""))
+)
